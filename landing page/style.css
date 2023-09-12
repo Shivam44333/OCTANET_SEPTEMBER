@@ -1,0 +1,347 @@
+*{
+    background-color: lightgoldenrodyellow;
+}
+.container{
+  background-color:black;
+  height: 60px;
+  position: static;
+}
+.amazon{
+   background-color:black;
+   font-style: italic;
+   text-decoration: none;
+   color:yellow;
+   padding: 8px;
+  border-radius: 5px;
+  border: none;
+  font-size: 20px;
+}
+.account{
+   
+    background-color:black;
+    font-style: italic;
+    text-decoration: none;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+}
+.mycart{
+    background-color:black;
+    font-style: italic;
+    text-decoration: none;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+}
+.contact{
+    background-color:black;
+    font-style: italic;
+    text-decoration: none;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+}
+.text{
+ width: 170px;
+ height: 25px;
+ text-align: center;
+ font-size: larger;
+ border-radius: 5px;
+ position: relative;
+ left: 60px;
+}
+.button{
+    background-color: aqua;
+}
+a{
+    margin: 30px;
+    text-decoration: none;
+    color: white;
+   position: relative;
+   top:15px;
+   margin:50px;
+}
+.search{
+    text-align: right;
+    position: relative;
+    top: 30px;
+}
+.up{
+    width: 100%;
+    font-style: italic;
+    color: white;
+    background-color:rgb(129, 158, 157);
+    position: relative;
+    top:-1350px;
+}
+
+.connect{
+   font-size: larger;
+    margin: -10px;
+    position: relative;
+    top:-6px;
+    color: black;
+}
+.makemoney{
+    color: black;
+    position: relative;
+    margin: 3px;
+    top:-2px;
+    font-size: 17px;
+}
+.help{
+color: black;
+position: relative;
+left:-50px;
+top:-2px;
+font-size: 17px;
+}
+.design{
+    color: blue;
+}
+p{
+    margin: 30px;
+    display: inline;
+   color: white;
+    font-style:inherit;
+    background-color:#222f3d;
+    position: relative;
+    top:5px;
+}
+.all{
+color:darkgrey;
+}
+.shop{
+  position:relative;
+  right: -90px;
+  display: inline;
+}
+.panel-ops{
+    background-color:#222f3d;
+    position: relative;
+    border-radius:2px;
+    height:30px;
+}
+.hero-section{
+height: 450px;
+background-size: cover;
+background-image: url("hero-section - copy.jpg");
+}
+.hero-msg{
+   color: black;
+   position: relative;
+   top:350px;
+   background-color: rgb(192, 158, 95);
+   border: 0px;
+}
+.ahero-msg{
+    color:lightseagreen;
+    position: relative;
+    top:-0.5px;
+   border-radius: 60px;
+}
+.box1{
+    background-color: white;
+    height: 230px;
+    width: 230px;
+    position: relative;
+    right:-85px;
+    border:2px solid black;
+}
+.box1-data{
+    display: inline;
+    font-size: 22px;
+    font-style:inherit;
+    background-color: white;
+}
+.box1-img{
+    background-image:url("personal care.jpg");
+    background-size: cover;
+    height: 205px;
+    width: 230px;
+}
+
+.box2{
+    background-color: white;
+    height: 230px;
+    width: 230px;
+    position: relative;
+    top:-234px;
+    left:340px;
+    border:2px solid black;
+}
+.box2-data{
+    display: inline;
+    font-size: 22px;
+    font-style:inherit;
+    background-color: white;  
+    position: relative;
+   
+}
+.box2-img{
+    background-image:url("clothes.jpg");
+    background-size: cover;
+    height: 205px;
+    width: 230px;
+
+}
+.box3{
+    background-color: white;
+    height: 230px;
+    width: 230px;
+    position: relative;
+    top:-466.5px;
+    left:600px;
+    border:2px solid black;
+}
+.box3-data{
+    display: inline;
+    font-size: 22px;
+    font-style:inherit;
+    background-color: white;
+    position: relative;
+    left:10px;
+}
+
+.box3-img{
+    background-image:url("furniture.jpg");
+    background-size: cover;
+    height: 205px;
+    width: 230px;
+}
+.box4{
+    background-color: white;
+    height: 230px;
+    width: 230px;
+   position: relative;
+   top:-700px;
+   left:850px;
+   border:2px solid black;
+}
+.box4-data{
+    display: inline;
+    font-size: 22px;
+    font-style:inherit;
+    background-color: white;
+    position: relative;
+    left:80px;
+} 
+
+
+.box4-img{
+    background-image:url("electronics.jpg");
+    background-size: cover;
+    height: 205px;
+    width: 230px;
+}
+.box5{
+    background-color: white;
+    height: 230px;
+    width: 230px;
+   position: relative;
+   top:-680px;
+   left:85px;
+   border:2px solid black;
+
+}
+.box5-data{
+    display: inline;
+    font-size: 22px;
+    font-style:inherit;
+    background-color: white;
+    position: relative;
+    left:80px;
+} 
+
+
+.box5-img{
+    background-image:url("iphone.jpg");
+    background-size: cover;
+    height: 205px;
+    width: 230px;
+  
+}
+.box6{
+    background-color: white;
+    height: 230px;
+    width: 230px;
+   position: relative;
+   top:-915px;
+   left:340px;
+   border:2px solid black;
+}
+.box6-data{
+    display: inline;
+    font-size: 22px;
+    font-style:inherit;
+    background-color: white;
+    position: relative;
+    left:80px;
+} 
+
+
+.box6-img{
+    background-image:url("watch.jpg");
+    background-size: cover;
+    height: 205px;
+    width: 230px;
+}
+
+.box7{
+    background-color: white;
+    height: 230px;
+    width: 230px;
+   position: relative;
+   top:-1145px;
+   left:603px;
+   border:2px solid black;
+   position: relative;
+
+}
+.box7-data{
+    display: inline;
+    font-size: 22px;
+    font-style:inherit;
+    background-color: white;
+    position: relative;
+    left:60px;
+    
+} 
+
+
+.box7-img{
+    background-image:url("shoes.jpg");
+    background-size: cover;
+    height: 205px;
+    width: 230px;
+}
+.box8{
+    background-color: white;
+    height: 230px;
+    width: 230px;
+   position: relative;
+   top:-1378px;
+   left:850px;
+   border:2px solid black;
+}
+.box8-data{
+    display: inline;
+    font-size: 22px;
+    font-style:inherit;
+    background-color: white;
+    position: relative;
+    left:8px;
+} 
+
+
+.box8-img{
+    background-image:url("travel.jpg");
+    background-size: cover;
+    height: 205px;
+    width: 230px;
+}
+footer{
+    position: relative;
+    top:-1300px;
+
+}
